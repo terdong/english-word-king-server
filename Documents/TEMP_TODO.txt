@@ -1,0 +1,7 @@
+2014-12-01
+1. wssv.wssv.AddWebSocketService<Chat>(SystemStr.Channel_Chat, ....
+위 구문에서 path 파라미터를 난독화 해서 클라이언트에 내려 보내기.
+(DDOS 방지)
+
+2015-03-14
+git 연결1

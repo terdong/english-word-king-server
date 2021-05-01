@@ -1,0 +1,844 @@
+id,chapter,page,word,mean
+1,1,1,gift,재능
+2,1,1,talent,재능
+3,1,1,perfect,완벽한
+4,1,1,complete,완전한
+5,1,1,gather,모으다
+6,1,1,collect,수집하다
+7,1,1,act,행동하다
+8,1,1,deed,행동하다
+9,1,1,help,돕다
+10,1,1,assist,돕다
+11,1,1,goal,목표
+12,1,1,purpose,목적
+13,1,1,better,개선하다
+14,1,1,improve,향상시키다
+15,1,1,hurt,다치게 하다
+16,1,1,pain,"고통, 아픔"
+17,1,1,live,살다
+18,1,1,alive,살아 있는
+19,1,1,use,사용하다
+20,1,1,utilize,이용하다
+21,1,1,do,행하다
+22,1,1,gain,"얻다, 이익"
+23,1,1,profit,이익
+24,1,1,annoy,괴롭히다
+25,1,1,irritate,화나게 하다
+26,1,1,delete,삭제하다
+27,1,1,erase,지우다
+28,1,1,stop,정지
+29,1,1,quit,중지하다
+30,1,1,calm,진정하다
+31,1,1,quiet,"고요, 평온한"
+32,1,1,start,출발
+33,1,1,begin,시작되다
+34,1,1,notice,"통지, 주목"
+35,1,1,remark,주목
+36,1,1,focus,초점
+37,1,1,center,중심
+38,1,1,care,걱정
+39,1,1,worry,걱정
+40,1,1,ask,묻다
+41,1,1,inquire,질문하다
+42,1,1,fulfill,만족시키다
+43,1,1,satisfy,충족시키다
+44,1,1,path,길
+45,1,1,track,"길, 트랙"
+46,1,1,risk,위험
+47,1,1,peril,위험
+48,1,1,trick,속이다
+49,1,1,cheat,사기
+50,1,1,cut down,줄이다
+51,1,1,reduce,줄이다
+52,1,1,sure,확실한
+53,1,1,certain,확실한
+54,1,1,withstand,저항하다
+55,1,1,resist,저항하다
+56,1,1,rate,등급
+57,1,1,grade,등급
+58,1,1,need,필요
+59,1,1,require,요구하다
+60,1,1,prove,증명하다
+61,1,1,evidence,증거
+62,1,1,lead,인도하다
+63,1,1,guide,안내하다
+64,1,1,expose,드러내다
+65,1,1,reveal,드러내다
+66,1,1,find,발견하다
+67,1,1,detect,발견하다
+68,1,1,part,부분
+69,1,1,separate,분리하다
+70,1,1,attract,끌다
+71,1,1,pull,끌다
+72,1,1,result,결과
+73,1,1,outcome,결과
+74,1,1,attempt,시도하다
+75,1,1,try,시도하다
+76,1,1,select,선택된
+77,1,1,choose,선택하다
+78,1,1,permit,허락하다
+79,1,1,allow,허용하다
+80,1,1,cover,덮개
+81,1,1,wrap,덮개
+82,1,1,strive,노력하다
+83,1,1,struggle,노력
+84,1,1,hire,고용하다
+85,1,1,employ,고용하다
+86,1,1,perform,행하다
+87,1,1,waste,낭비하다
+88,1,1,consume,다 써버리다
+89,1,1,show,보이다
+90,1,1,display,전시하다
+91,1,1,endure,견디다
+92,1,1,suffer,견디다
+93,1,1,maximum,최대의
+94,1,1,utmost,최대한
+95,1,1,believe,믿다
+96,1,1,trust,신뢰하다
+97,1,1,tie,묶다
+98,1,1,bind,묶다
+99,1,1,mistake,잘못
+100,1,1,error,잘못
+101,1,1,ground,기초
+102,1,1,base,기초
+103,1,1,look,바라보다
+104,1,1,stare,응시하다
+105,1,1,big,큰
+106,1,1,large,큰
+107,1,1,customer,고객
+108,1,1,client,고객
+109,1,1,picture,그림
+110,1,1,image,이미지
+111,1,1,example,예
+112,1,1,instance,예
+113,1,1,affect,영향을 미치다
+114,1,1,influence,영향을 주다
+115,1,1,within,이내의
+116,1,1,inside,안에
+117,1,1,reside,거주하다
+118,1,1,dwell,살다
+119,1,1,get,받다
+120,1,1,acquire,획득하다
+121,1,1,smart,영리한
+122,1,1,clever,똑똑한
+123,1,1,attack,공격하다
+124,1,1,assault,공격하다
+125,1,1,rise,오르다
+126,1,1,elevate,향상시키다
+127,1,1,form,"형식, 틀"
+128,1,1,shape,모양
+129,1,1,double,두 배
+130,1,1,duplicate,복사
+131,1,1,people,사람들
+132,1,1,mass,모임
+133,1,1,home,"집, 고향"
+134,1,1,domestic,"가정의, 국내의"
+135,1,1,new,새로운
+136,1,1,fresh,신선한
+137,1,1,bare,벌거벗은
+138,1,1,naked,나체의
+139,1,1,job,"일, 직업"
+140,1,1,business,직업
+141,1,1,happen,발생하다
+142,1,1,befall,발생하다
+143,1,1,old,나이든
+144,1,1,ancient,고대의
+145,1,1,easy,쉬운
+146,1,1,simple,단순한
+147,1,1,promise,약속하다
+148,1,1,assure,보증하다
+149,1,1,lay,"놓다, 눕히다"
+150,1,1,put,"놓다, 두다"
+151,1,1,have,가지다
+152,1,1,own,소유하다
+153,1,1,strong,강한
+154,1,1,powerful,강력한
+155,1,1,beg,구걸하다
+156,1,1,implore,애원하다
+157,1,1,worth,가치 있는
+158,1,1,valuable,귀중한
+159,1,1,soon,곧
+160,1,1,shortly,곧
+161,1,1,individual,개인적인
+162,1,1,personal,개인의
+163,1,1,plan,"계획, 계획하다"
+164,1,1,design,"계획, 설계하다"
+165,1,1,now,지금
+166,1,1,immediate,즉시의
+167,1,1,give,주다
+168,1,1,supply,공급하다
+169,1,1,avenge,복수하다
+170,1,1,revenge,복수하다
+171,1,1,fast,빠른
+172,1,1,swift,빠른
+173,1,1,remember,기억하다
+174,1,1,recollect,회상하다
+175,1,1,think,생각하다
+176,1,1,consider,고려하다
+177,1,1,heal,낫게 하다
+178,1,1,cure,치료하다
+179,1,1,answer,대답하다
+180,1,1,respond,응답하다
+181,1,1,determine,결심하다
+182,1,1,decide,결정하다
+183,1,1,limit,한계
+184,1,1,confine,한정하다
+185,1,1,break,"깨다, 부수다"
+186,1,1,destroy,파괴하다
+187,1,1,pay,보수
+188,1,1,wage,임금
+189,1,1,hate,혐오하다
+190,1,1,despise,경멸하다
+191,1,2,look for,찾다
+192,1,2,search,찾다
+193,1,2,come out,"나타나다, 나오다"
+194,1,2,appear,나타나다
+195,1,2,same,~과 같은
+196,1,2,alike,비슷한
+197,1,2,only,"겨우, 유일한"
+198,1,2,sole,"유일한, 단독의"
+199,1,2,club,클럽
+200,1,2,guild,조합
+201,1,2,dirty,더러운
+202,1,2,stain,얼룩
+203,1,2,origin,유래
+204,1,2,root,근원
+205,1,2,say,말하다
+206,1,2,tell,말하다
+207,1,2,total,합계
+208,1,2,amount,총계
+209,1,2,peak,절정
+210,1,2,top,꼭대기
+211,1,2,doubt,의심하다
+212,1,2,distrust,불신하다
+213,1,2,bear,낳다
+214,1,2,birth,출생
+215,1,2,deal,다루다
+216,1,2,handle,다루다
+217,1,2,last,마지막의 
+218,1,2,final,최후의
+219,1,2,talk,말하다
+220,1,2,speak,말하다
+221,1,2,manner,방식
+222,1,2,mode,양식
+223,1,2,grave,"중대한, 엄숙한"
+224,1,2,heavy,무거운
+225,1,2,strange,"이상한, 낯선"
+226,1,2,unusual,유별난
+227,1,2,give up,포기하다
+228,1,2,abandon,"버리다, 그만두다"
+229,1,2,take,받아들이다
+230,1,2,accept,받아들이다
+231,1,2,be used to,~에 익숙하다
+232,1,2,accustom,익숙해지다
+233,1,2,surprise,놀람
+234,1,2,amaze,놀라게 하다
+235,1,2,expect,기대하다
+236,1,2,anticipate,예상하다
+237,1,2,reach,도착하다
+238,1,2,arrive,도착하다
+239,1,2,agree,동의하다
+240,1,2,assent,찬성하다
+241,1,2,relate,관련시키다
+242,1,2,associate,제휴하다
+243,1,2,prize,상
+244,1,2,award,"상, 수여하다"
+245,1,2,animal,동물
+246,1,2,beast,짐승
+247,1,2,see,보다
+248,1,2,behold,바라보다
+249,1,2,also,또한
+250,1,2,besides,게다가
+251,1,2,short,짧은
+252,1,2,brief,간결한
+253,1,2,wide,넓은
+254,1,2,broad,폭이 넓은
+255,1,2,catch,잡다
+256,1,2,capture,포획하다
+257,1,2,throw,던지다
+258,1,2,cast,던지다
+259,1,2,reason,이유
+260,1,2,cause,원인
+261,1,2,warn,경고하다
+262,1,2,caution,주의
+263,1,2,call,전화하다
+264,1,2,telephone,전화하다
+265,1,2,mount,"오르다, 상승하다"
+266,1,2,climb,"오르다, 상승"
+267,1,2,hint,힌트
+268,1,2,clue,실마리
+269,1,2,battle,싸움
+270,1,2,combat,"싸우다, 전투"
+271,1,2,common,보통의
+272,1,2,usual,보통의
+273,1,2,friend,친구
+274,1,2,companion,동료
+275,1,2,end,"끝, 최후"
+276,1,2,finish,끝
+277,1,2,link,연결하다
+278,1,2,connect,연결하다
+279,1,2,aware,알고 있는
+280,1,2,conscious,자각하고 있는
+281,1,2,build,짓다
+282,1,2,construct,건설하다
+283,1,2,carry,나르다
+284,1,2,convey,운반하다
+285,1,2,universe,우주
+286,1,2,cosmos,우주
+287,1,2,price,가격
+288,1,2,cost,비용
+289,1,2,advise,충고하다
+290,1,2,counsel,조언하다
+291,1,2,present,현재의
+292,1,2,current,현재의
+293,1,2,please,기쁘게 하다
+294,1,2,delight,기쁨
+295,1,2,bring,가져오다
+296,1,2,deliver,배달하다
+297,1,2,grow,자라다
+298,1,2,develop,"개발하다, 발달하다"
+299,1,2,hard,"열심히, 어려운"
+300,1,2,difficult,"어려운, 힘든"
+301,1,2,discuss,논의하다
+302,1,2,dispute,논쟁하다
+303,1,2,unlike,같지 않은
+304,1,2,dissimilar,닮지 않은
+305,1,2,zone,구역
+306,1,2,district,지역
+307,1,2,trouble,"불편, 곤란"
+308,1,2,problem,"문제, 곤란한일"
+309,1,2,saving,"절약한, 저축"
+310,1,2,economical,"경제적인, 알뜰한"
+311,1,2,hug,껴안다
+312,1,2,embrace,포옹하다
+313,1,2,feeling,감정
+314,1,2,emotion,감정
+315,1,2,cheer,격려하다
+316,1,2,encourage,용기를 북돋우다
+317,1,2,appeal,간청
+318,1,2,entreat,간청하다
+319,1,2,respect,존경하다
+320,1,2,esteem,존중하다
+321,1,2,daily,매일의
+322,1,2,everyday,매일의
+323,1,2,exclude,제외하다
+324,1,2,except,~을 제외하고
+325,1,2,trade,거래
+326,1,2,exchange,교환하다
+327,1,2,practice,연습
+328,1,2,exercise,훈련
+329,1,2,expert,숙련가
+330,1,2,proficient,능숙한
+331,1,2,burst,"파열, 폭발"
+332,1,2,explosion,폭발
+333,1,2,hunger,굶주림
+334,1,2,starve,굶어 죽다
+335,1,2,fame,명성
+336,1,2,renown,명성
+337,1,2,fund,자금
+338,1,2,finance,"재무, 자금"
+339,1,2,luck,행운
+340,1,2,fortune,행운
+341,1,2,angry,화난
+342,1,2,furious,격노한
+343,1,2,general,일반적인
+344,1,2,thank,감사
+345,1,2,gratitude,감사
+346,1,2,tomb,무덤
+347,1,2,welcome,환영
+348,1,2,greet,환영하다
+349,1,2,damage,손해
+350,1,2,harm,손해
+351,1,2,boss,우두머리
+352,1,2,head,"머리, 선두에 서다"
+353,1,2,secret,비밀의
+354,1,2,hidden,숨겨진
+355,1,2,man,"남자, 사람"
+356,1,2,human,인간
+357,1,2,wit,"위트, 재치"
+358,1,2,humor,유머
+359,1,2,contain,포함하다
+360,1,2,include,포함하다
+361,1,2,earning,소득
+362,1,2,income,수입
+363,1,2,growth,"성장, 발전"
+364,1,2,increase,증가
+365,1,2,casual,격식을 차리지 않는
+366,1,2,informal,격식 차리지 않는
+367,1,2,first,첫째의
+368,1,2,initial,"처음의, 머리글자"
+369,1,2,born,"태어난, 타고난"
+370,1,2,innate,타고난
+371,1,2,travel,여행
+372,1,2,journey,여정
+373,1,2,work,일
+374,1,2,labor,노동
+375,1,2,free,자유로운
+376,1,2,liberate,자유롭게 하다
+377,1,2,hold,유지하다
+378,1,2,maintain,유지하다
+379,1,2,lord,주인
+380,1,2,master,주인
+381,1,3,partner,동료
+382,1,3,mate,동료
+383,1,3,change,바꾸다
+384,1,3,modify,변경하다
+385,1,3,country,"나라, 시골"
+386,1,3,nation,"국가, 국민"
+387,1,3,almost,거의
+388,1,3,nearly,거의
+389,1,3,many,많은
+390,1,3,numerous,매우 많은
+391,1,3,watch,경계
+392,1,3,observe,관찰하다
+393,1,3,receive,받다
+394,1,3,obtain,획득하다
+395,1,3,chance,기회
+396,1,3,opportunity,기회
+397,1,3,arise,결과로서 생기다
+398,1,3,originate,~에서 비롯되다
+399,1,3,couple,한 쌍
+400,1,3,pair,한 쌍
+401,1,3,special,특별한
+402,1,3,particular,특유의
+403,1,3,maybe,"아마, 어쩌면"
+404,1,3,perhaps,"아마, 어쩌면"
+405,1,3,joy,기쁨
+406,1,3,pleasure,즐거움
+407,1,3,enough,충분한
+408,1,3,plenty,"많음, 충분"
+409,1,3,like,좋아하다
+410,1,3,prefer,더 좋아하다
+411,1,3,ready,준비가 된
+412,1,3,prepare,준비하다
+413,1,3,chief,"최고의, 주요한"
+414,1,3,primary,주요한
+415,1,3,go,가다
+416,1,3,proceed,나아가다
+417,1,3,make,만들다
+418,1,3,produce,생산하다
+419,1,3,complain,불평을 말하다
+420,1,3,protest,항의
+421,1,3,buy,구입
+422,1,3,purchase,구매
+423,1,3,clean,깨끗한
+424,1,3,pure,순수한
+425,1,3,back,뒤
+426,1,3,rear,뒤
+427,1,3,acknowledge,인정하다
+428,1,3,recognize,인정하다
+429,1,3,area,지역
+430,1,3,region,"지방, 지역"
+431,1,3,stay,머무르다
+432,1,3,remain,남다
+433,1,3,request,"부탁, 요구하다"
+434,1,3,save,구하다
+435,1,3,rescue,"구출, 구조"
+436,1,3,keep,보유하다
+437,1,3,reserve,남겨 두다
+438,1,3,restart,재개시키다
+439,1,3,resume,다시 시작하다
+440,1,3,frighten,두려워하다
+441,1,3,scare,겁주다
+442,1,3,safe,안전한
+443,1,3,secure,안전한
+444,1,3,fix,고정시키다
+445,1,3,set,고정하다
+446,1,3,ill,병든
+447,1,3,sick,병든
+448,1,3,vision,"시력, 시각"
+449,1,3,sight,시각
+450,1,3,foolish,어리석은
+451,1,3,silly,어리석은
+452,1,3,unique,독특한
+453,1,3,singular,유일한
+454,1,3,kind,종류
+455,1,3,sort,종류
+456,1,3,excite,흥분시키다
+457,1,3,stimulate,자극하다
+458,1,3,subject,주제
+459,1,3,theme,주제
+460,1,3,win,이기다
+461,1,3,succeed,성공하다
+462,1,3,propose,제안하다
+463,1,3,suggest,제안하다
+464,1,3,fit,적합하다
+465,1,3,suit,적합하다
+466,1,3,environment,환경
+467,1,3,surroundings,"환경, 주위의"
+468,1,3,vow,맹세
+469,1,3,swear,맹세하다
+470,1,3,soft,부드러운
+471,1,3,tender,부드러운
+472,1,3,terminate,종결시키다
+473,1,3,panic,"공황, 공포"
+474,1,3,terror,공포
+475,1,3,topic,"화제, 주제"
+476,1,3,idea,"셍각, 개념"
+477,1,3,thought,생각
+478,1,3,small,작은
+479,1,3,tiny,조그마한
+480,1,3,disaster,"재난, 재해"
+481,1,3,tragedy,"비극, 참사"
+482,1,3,test,시험
+483,1,3,trial,시험하기
+484,1,3,victory,승리
+485,1,3,triumph,승리
+486,1,3,just,올바른
+487,1,3,upright,똑바른
+488,1,3,disappear,사라지다
+489,1,3,vanish,사라지다
+490,1,3,career,"경력, 직업"
+491,1,3,vocation,직업
+492,1,3,poll,투표하다
+493,1,3,vote,투표
+494,1,3,beware,조심하다
+495,1,3,watch out,경계
+496,1,3,rich,부유한
+497,1,3,wealthy,부유한
+498,1,3,arm,무기
+499,1,3,weapon,무기
+500,1,3,cry,울다
+501,1,3,weep,눈물을 흘리다
+502,1,3,hope,희망
+503,1,3,wish,소원
+504,1,3,author,저자
+505,1,3,writer,작가
+506,1,3,annual,해마다의
+507,1,3,yearly,매년의
+508,1,3,ability,능력
+509,1,3,accumulate,축적하다
+510,1,3,action,행동
+511,1,3,aid,"돕다, 원조"
+512,1,3,anguish,"고통, 괴롭히다"
+513,1,3,animate,살아 있는
+514,1,3,around,"주위에, 대략"
+515,1,3,approximately,"대체로, 대략"
+516,1,3,behave,행동하다
+517,1,3,benefit,이익
+518,1,3,cancel,삭제하다
+519,1,3,cease,그만두다
+520,1,3,unite,결합하다
+521,1,3,combine,결합시키다
+522,1,3,commence,시작하다
+523,1,3,comment,"논평, 주석"
+524,1,3,concentrate,집중하다
+525,1,3,concern,걱정하다
+526,1,3,danger,위험
+527,1,3,decrease,감소
+528,1,3,definite,명확한
+529,1,3,degree,"정도, 단계"
+530,1,3,demand,요구하다
+531,1,3,demonstrate,증명하다
+532,1,3,direct,"지도하다, 이끌다"
+533,1,3,disclose,드러내다
+534,1,3,discover,발견하다
+535,1,3,divide,"나누다, 분할"
+536,1,3,draw,끌다
+537,1,3,competent,유능한
+538,1,3,efficient,유능한
+539,1,3,effort,노력
+540,1,3,elect,선출된
+541,1,3,endeavor,노력
+542,1,4,engage,고용하다
+543,1,4,compare,필적하다
+544,1,4,equate,동일시하다
+545,1,4,execute,이행하다
+546,1,4,exhibit,전시하다
+547,1,4,go through,경험하다
+548,1,4,experience,경험
+549,1,4,extreme,극도의
+550,1,4,religion,"종교, 신앙심"
+551,1,4,faith,"믿음, 신앙"
+552,1,4,fault,결점
+553,1,4,defect,결점
+554,1,4,foundation,기초
+555,1,4,gaze,응시하다
+556,1,4,guest,손님
+557,1,4,obstruct,"막다, 방해하다"
+558,1,4,hinder,"방해하다, 막다"
+559,1,4,impact,"영향, 충격"
+560,1,4,indoor,실내의
+561,1,4,inhabit,거주하다
+562,1,4,intelligent,총명한
+563,1,4,lift,들어 올리다
+564,1,4,repair,수리하다
+565,1,4,mend,고치다
+566,1,4,national,"국가의, 국민의"
+567,1,4,novel,새로운
+568,1,4,nude,나체의
+569,1,4,forgive,용서하다
+570,1,4,pardon,용서
+571,1,4,past,"과거의, 지나간"
+572,1,4,plain,명백한
+573,1,4,apparent,명백한
+574,1,4,possess,소유하다
+575,1,4,pray,"빌다, 기원하다"
+576,1,4,precious,값비싼
+577,1,4,presently,"이내, 곧"
+578,1,4,assume,가정하다
+579,1,4,presume,추정하다
+580,1,4,private,사적인
+581,1,4,project,계획
+582,1,4,prompt,즉석의
+583,1,4,provide,제공하다
+584,1,4,rapid,빠른
+585,1,4,mention,언급하다
+586,1,4,refer,언급하다
+587,1,4,remedy,치료
+588,1,4,reply,응답하다
+589,1,4,restrict,제한하다
+590,1,4,ruin,파멸
+591,1,4,salary,봉급
+592,1,4,scorn,경멸
+593,1,4,contempt,경멸
+594,1,4,seek,찾다
+595,1,4,similar,유사한
+596,1,4,single,단 하나의
+597,1,4,source,원천
+598,1,4,yet,아직
+599,1,4,still,아직도
+600,1,4,sum,합계
+601,1,4,summit,정상
+602,1,4,tolerate,"참다, 견디다"
+603,1,4,treat,다루다
+604,1,4,ultimate,최후의
+605,1,4,utter,말하다
+606,1,4,way,"방법, 길"
+607,1,4,weighty,무거운
+608,1,4,sharp,날카로운
+609,1,4,keen,날카로운
+610,1,4,wake up,잠을 깨우는
+611,1,4,awake,깨우다
+612,1,4,hit,치다
+613,1,4,strike,치다
+614,1,4,achieve,성취하다
+615,1,4,accomplish,성취하다
+616,1,4,bar,장애물
+617,1,4,barrier,장벽
+618,1,4,brave,용감한
+619,1,4,courageous,용기 있는
+620,1,4,right,옳은
+621,1,4,correct,올바른
+622,1,4,plus,~을 더하여
+623,1,4,addition,"부가, 덧셈"
+624,1,4,factor,"요인, 요소"
+625,1,4,element,"요소, 원소"
+626,1,4,doing,행하기
+627,1,4,behavior,행동
+628,1,4,OK,"찬성, 승인"
+629,1,4,approve,"찬성하다, 승인하다"
+630,1,4,guard,지키다
+631,1,4,protect,보호하다
+632,1,4,delay,"지연, 연기하다"
+633,1,4,postpone,연기하다
+634,1,4,fate,운명
+635,1,4,destiny,운명
+636,1,4,awful,무서운
+637,1,4,terrible,무서운
+638,1,4,charm,매력
+639,1,4,fascinate,매혹하다
+640,1,4,completely,"완전히, 전적으로"
+641,1,4,whole,"완전한, 전부의"
+642,1,4,precise,정확한
+643,1,4,accurate,정확한
+644,1,4,excel,능가하다
+645,1,4,surpass,능가하다
+646,1,4,spend,소비하다
+647,1,4,prosper,번영하다
+648,1,4,thrive,번영하다
+649,1,4,operate,작용하다
+650,1,4,function,"기능, 작용하다"
+651,1,4,offer,"제공하다, 제안"
+652,1,4,actual,현실의
+653,1,4,real,현실의
+654,1,4,modest,겸손한
+655,1,4,humble,겸손한
+656,1,4,vast,광대한
+657,1,4,huge,거대한
+658,1,4,crazy,"열중한, 미친"
+659,1,4,mad,"미친, 열광한"
+660,1,4,guarantee,보증
+661,1,4,ensure,"보증하다, 지키다"
+662,1,4,inner,내부의
+663,1,4,interior,안쪽의
+664,1,4,young,"젊은, 어린"
+665,1,4,youth,"젊음, 청년"
+666,1,4,legal,합법적인
+667,1,4,legitimate,합법의
+668,1,4,disease,병
+669,1,4,sickness,병
+670,1,4,ignore,무시하다
+671,1,4,disregard,무시하다
+672,1,4,share,몫
+673,1,4,portion,"일부, 몫"
+674,1,4,block,막다
+675,1,4,power,힘
+676,1,4,might,힘
+677,1,4,declare,공표하다
+678,1,4,announce,발표하다
+679,1,4,pack,"꾸리다, 짐"
+680,1,4,bundle,"묶음, 꾸리다"
+681,1,4,contend,"다투다, 경쟁하다"
+682,1,4,compete,경쟁하다
+683,1,4,face,"얼굴, 직면하다"
+684,1,4,confront,직면하다
+685,1,5,decent,"제대로 된, 알맞은"
+686,1,5,properly,"적절히, 알맞게"
+687,1,5,bank,"은행, 예금하다"
+688,1,5,deposit,예금하다
+689,1,5,want,원하다
+690,1,5,desire,바라다
+691,1,5,industrious,근면한
+692,1,5,diligent,근면한
+693,1,5,distribute,분배하다
+694,1,5,dispense,분배하다
+695,1,5,sell,팔다
+696,1,5,dispose of,팔아버리다
+697,1,5,disagree,반대하다
+698,1,5,dissent,의견이 다르다
+699,1,5,meet,만나다
+700,1,5,encounter,마주치다
+701,1,5,adept,숙련된
+702,1,5,famine,기근
+703,1,5,disappoint,실망시키다
+704,1,5,let down,실망시키다
+705,1,5,serious,진지한
+706,1,5,vacation,휴가
+707,1,5,holiday,휴일
+708,1,5,charge,"요금, 청구하다"
+709,1,5,bill,"계산서, 청구하다"
+710,1,5,data,"자료, 데이터"
+711,1,5,information,정보
+712,1,5,diary,"일기, 일지"
+713,1,5,journal,"일지, 잡지"
+714,1,5,issue,"논점, 문제"
+715,1,5,matter,문제
+716,1,5,lose,잃다
+717,1,5,miss,놓치다
+718,1,5,gesture,몸짓손짓
+719,1,5,motion,움직임
+720,1,5,royal,위엄 있는
+721,1,5,noble,숭고한
+722,1,5,enemy,적
+723,1,5,opponent,반대자
+724,1,5,fight,싸우다
+725,1,5,oppose,반대하다
+726,1,5,other,다른
+727,1,5,opposite,정반대의
+728,1,5,organize,조직하다
+729,1,5,possibly,"아마, 어쩌면"
+730,1,5,civil,"시민의, 예의 바른"
+731,1,5,polite,공손한
+732,1,5,status,"지위, 신분"
+733,1,5,position,"위치, 지위"
+734,1,5,possible,가능한
+735,1,5,potential,잠재적인
+736,1,5,principle,"원리, 원칙"
+737,1,5,rule,규칙
+738,1,5,likely,~할 것 같은
+739,1,5,probably,"아마, 대개는"
+740,1,5,advance,전진하다
+741,1,5,progress,"진행, 전진하다"
+742,1,5,print,"인쇄, 인쇄 출판하다"
+743,1,5,publish,출판하다
+744,1,5,record,"기록, 녹음하다"
+745,1,5,register,"기록하다, 등록"
+746,1,5,loosen,"풀다, 완화하다"
+747,1,5,relax,누그러뜨리다
+748,1,5,loose,풀려난
+749,1,5,release,석방
+750,1,5,liable,법적 책임이 있는
+751,1,5,responsible,책임이 있는
+752,1,5,steal,훔치다
+753,1,5,rob,강탈하다
+754,1,5,concise,간결한
+755,1,5,summary,요약
+756,1,5,custom,"관습, 풍습"
+757,1,5,tradition,"전통, 관습"
+758,1,5,vertical,수직의
+759,1,5,offend,범하다
+760,1,5,violate,위반하다
+761,1,5,absolute,절대적인
+762,1,5,aim,"겨누다, 목적"
+763,1,5,amend,개정하다
+764,1,5,examine,시험하다
+765,1,5,analyze,분석하다
+766,1,5,bother,귀찮게 굴다
+767,1,5,comfort,위로하다
+768,1,5,console,위로하다
+769,1,5,look into,조사하다
+770,1,5,investigate,조사하다
+771,1,5,deceive,속이다
+772,1,5,defy,도전하다
+773,1,5,contribution,기부
+774,1,5,donation,기부
+775,1,5,effect,"결과, 영향"
+776,1,5,exhaust,다 써 버리다
+777,1,5,fasten,고정시키다
+778,1,5,illustration,"삽화, 실례"
+779,1,5,learn,"배우다, 습득하다"
+780,1,5,multiply,"늘리다, 곱하다"
+781,1,5,occupation,직업
+782,1,5,occur,"일어나다, 발생하다"
+783,1,5,potent,유력한
+784,1,5,recall,"소환하다, 회상"
+785,1,5,state,"상태, 국가, 말하다"
+786,1,5,strength,힘
+787,1,5,weird,기묘한
+788,1,5,capable,유능한
+789,1,5,affront,모욕하다
+790,1,5,insult,모욕하다
+791,1,5,clap,손뼉을 치다
+792,1,5,applaud,박수 갈채하다
+793,1,5,treaty,"조약, 협정"
+794,1,5,pact,"조약, 협정"
+795,1,5,obey,"따르다, 복종하다"
+796,1,5,conform,"따르다, 순응하다"
+797,1,5,inform,"알리다, 통지하다"
+798,1,5,notify,통지하다
+799,1,5,alarm,"놀람, 경보"
+800,1,5,set up,"배치, 셋업"
+801,1,5,arrange,"배열하다, 정돈하다"
+802,1,5,medium,중간의
+803,1,5,intermediate,중간의
+804,1,5,wild,야생의
+805,1,5,savage,"잔인한, 야생의"
+806,1,5,stick,달라붙다
+807,1,5,adhere,들러붙다
+808,1,5,crack,"깨지다, 금이 가다"
+809,1,5,mortal,치명적인
+810,1,5,fatal,치명적인
+811,1,5,die,죽다
+812,1,5,perish,죽다
+813,1,5,point,"점, 가리키다"
+814,1,5,indicate,~을 가리키다
+815,1,5,poor,가난한
+816,1,5,poverty,가난
+817,1,5,distinguish,구별하다
+818,1,5,discern,식별하다
+819,1,5,fair,공정한
+820,1,5,impartial,공정한
+821,1,5,oblige,강요하다
+822,1,5,compel,강요하다
+823,1,5,appointment,약속
+824,1,5,engagement,약속
+825,1,5,ambitious,야심적인
+826,1,5,challenging,도전적인
+827,1,5,enlarge,확대하다
+828,1,5,magnify,확대하다
+829,1,5,shout,외침
+830,1,5,outlook,"(장소의) 전망, 예상"
+831,1,5,prospect,"(미래의) 전망, 예상"
+832,1,5,flat,편평한
+833,1,5,level,"평평한, 수평의"
+834,1,5,urge,"재촉하다, 충동"
+835,1,5,impulse,"충동, 자극"
+836,1,5,smell,냄새
+837,1,5,scent,냄새
+838,1,5,process,"경과, 과정"
+839,1,5,procedure,"절차, 순서, 진행"
+840,1,5,sponsor,후원자
+841,1,5,supporter,후원자
+842,1,5,about,대략
+843,1,5,liken,비유하다
